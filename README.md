@@ -89,11 +89,10 @@
    	</div> <!-- /intro-content --> 
 
    	<ul class="intro-social">        
-         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-         <li><a href="#"><i class="fa fa-behance"></i></a></li>
-         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-         <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+         <li><a href="https://www.facebook.com/leighmedy"><i class="fa fa-facebook"></i></a></li>
+	      <li><a href="https://twitter.com/leighmedy"><i class="fa fa-twitter"></i></a></li>
+	      <li><a href="https://www.instagram.com/geoleighyers"><i class="fa fa-instagram"></i></a></li>
+	      <li><a href="https://github.com/geoleighyers"><i class="fa fa-github"></i></a></li>
       </ul> <!-- /intro-social -->      	
 
    </section> <!-- /intro -->
@@ -117,7 +116,7 @@
 
 						I am working in the geospatial field for 11 years. My work experiences include GIS, remote sensing, and database management. I am knowledgeable in the aerial mapping workflow from planning and image acquisition using manned/unmanned aerial vehicle to post-processing works resulting in the generation of orthophoto, digital elevation models, and 3D. I am a licensed RPA controller/drone pilot in the Philippines. 
 						<br><br>
-						Aside from preparation of analysis and thematic maps, I have conducted GIS trainings, drone workshops, and seminars for technical working groups, students, and the local community. 
+						Aside from preparation of analysis and thematic maps, I have conducted GIS trainings, drone workshops, and seminars for technical working groups, students, and ph local community. 
 						<br><br>
 						I support empowering the local community with proper technology-based solutions, and local engagement is critical in implementing humanitarian efforts in the global south. I also advocate giving women and SOGIESC (Sexual Orientation and Gender Identity and Expression and Sex Characteristics) a safe space for growth and development in the geospatial science community.				
    				</p>
@@ -152,7 +151,7 @@
    					<strong>Geospatial</strong>
    					<span>me@kardswebsite.com</span>
    				</li> -->
-   			<p></p>
+   			</ul>
 
    			
 
@@ -173,7 +172,7 @@
 				   	<strong>Remote Sensing</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent70"><span>75%</span></div>
+				   	<div class="progress percent75"><span>75%</span></div>
 				   	<strong>Database Management</strong>
 				   </li>
 				   <!--
@@ -213,7 +212,7 @@
    			<h5>Resume</h5>
    			<h1>More of my credentials.</h1>
 
-   			<p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+   			<p class="lead"></p>
 
    		</div>   		
    	</div> <!-- /section-intro--> 
@@ -244,7 +243,31 @@
 
 	   				<div class="timeline-content">
 	   					<h4>SRDP Consulting Inc.</h4>
-	   					<p>sdfa</p>
+
+
+	   					<ul>
+						   <li>					   	
+	   						Manage a team of GIS Operators to deliver outputs on time and up to the client's standards
+						   </li>
+						   <li>
+						   	Manage a field verification team in different cities and municipalities in the Philippines to get points of interest
+						   </li>
+						   <li>
+						   	Office-related field survey preparatory works such as planning Ground Control Point location, flight plans, and field work schedule
+						   </li>
+						   <li>
+						   		Successfully quality-checked and controlled data from operators and field crew to ensure the validity of collected data.</li>
+						   <li>
+						   		Organized aerial photos for image processing which led to a more efficient workflow.</li>
+						   <li>
+						   		Conducted community-based hazard mapping in communities which helped increase safety measures.</li>
+						   <li>
+						   		Develop a web GIS application that collects and share surface water information</li>
+						   <li>
+						   		Maintain client's web application, fix bugs and add minor features</li>
+						   <li>
+						   		Prepare guidelines for users promoting information management system</li>		      
+							</ul>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
@@ -257,7 +280,11 @@
 
 	   				<div class="timeline-content">
 	   					<h4>Keypro Oy</h4>
-	   					<p>sdfa</p>
+	   					<ul>
+	   						<li>Assist in web development and GIS-services of Keypro in Finland, Spain and Philippines</li>
+	   						<li>Contributed to the GIS-services offered by Keypro.</li>
+	   						<li>Provided support for various web development projects.</li>
+	   					</ul>
 	   				</div>
 
 	   			<div class="timeline-header">
@@ -268,7 +295,16 @@
 
 	   				<div class="timeline-content">
 	   					<h4>Various Projects</h4>
-	   					<p>sdfa</p>
+	   					<ul>
+	   						<li>Technical writing about unmanned aerial vehicle (UAV) best practices and guidelines, World Bank
+	   						</li>
+	   						<li>Facilitate and present GIS methods to create hazard, vulnerability, and exposure maps of Gaza City & 
+	   						    create map atlas showing different map outputs, World Bank Gaza City Disaster Risk Planning</li>
+	   						<li>Review GIS-related contracts for the municipality</li>
+	   						<li>Provide training for engineers and geologists in GIS and drones for mapping</li>
+	   						<li>Co-author research paper in GIS and Geohazard assessment </li>
+
+	   					</ul>
 	   				</div>
 
 	   			<div class="timeline-header">
@@ -279,50 +315,12 @@
 
 	   				<div class="timeline-content">
 	   					<h4>AMH Philippines</h4>
-	   					<p>sdfa</p>
+	   					<p>Research socio-economic profiles of Metro Manila cities, project coordination and technical report writing</p>
 	   				</div>
-
-
-	   				
-
-
-
-
 
 	   			</div> <!-- /timeline-block -->
 
-	   			<!-- <div class="timeline-block"> 
-	   				<div class="timeline-ico">
-	   					<i class="fa fa-briefcase"></i>
-	   				</div>
-
-	   				<div class="timeline-header">
-	   					<h3>Geospatial Consultant</h3>
-	   					<p>2020 - Present</p>
-	   				</div>
-
-	   				<div class="timeline-content">
-	   					<h4>Various Projects</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
-	   				</div> 
-
-	   			</div> <!-- /timeline-block 
-
-	   			<div class="timeline-block">
-
-	   				<div class="timeline-ico">
-	   					<i class="fa fa-briefcase"></i>
-	   				</div>
-
-	   				<div class="timeline-header">
-	   					<h3>GIS / Research Assistant</h3>
-	   					<p>May 2013 - June 2014</p>
-	   				</div>
-
-	   				<div class="timeline-content">
-	   					<h4>AMH Philippines</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
-	   				</div> -->
+	   
 
 	   			</div> <!-- /timeline-block --> 
 
@@ -352,7 +350,7 @@
 
 	   				<div class="timeline-header">
 	   					<h3>Master Degree</h3>
-	   					<p>July 2013 - Present</p>
+	   					<p>2013 - Present</p>
 	   				</div>
 
 	   				<div class="timeline-content">
@@ -370,7 +368,7 @@
 
 	   				<div class="timeline-header">
 	   					<h3>Bachelor Degree</h3>
-	   					<p>2007-2013</p>
+	   					<p>2007-2011</p>
 	   				</div>
 
 	   				<div class="timeline-content">
@@ -393,8 +391,7 @@
 
 	   				<div class="timeline-content">
 	   					<h4>Design College</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
-	   				</div> -->
+		   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillu	
 
 	   			</div> <!-- /timeline-block -->
 
@@ -414,10 +411,10 @@
 		<div class="row section-intro">
    		<div class="col-twelve">
 
-   			<h5>Portfolio</h5>
-   			<h1>Check Out Some of My Works.</h1>
+   			<h5>Online Community</h5>
+   			<h1>Check Out Some of online engagements.</h1>
 
-   			<p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+   			<p class="lead"></p>
 
    		</div>   		
    	</div> <!-- /section-intro--> 
@@ -431,13 +428,13 @@
 
 	         	<div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/liberty.jpg" alt="Liberty">
+	               	<img src="images/portfolio/pnmxsotm22.jpg" alt="Liberty">
 	                  <a href="#modal-01" class="overlay">	                  	           
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-		     					       <h3 class="folio-title">Liberty</h3>	     					    
+		     					       <h3 class="folio-title">Pista ng Mapa and State of the Map Conference 2022</h3>	     					    
 		     					    	 <span class="folio-types">
-		     					       	  Graphic Design
+		     					       	  Organizer
 		     					       </span>
 		     					   </div>	                      	
 	                     </div>                    
@@ -447,13 +444,13 @@
 
 	        		<div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/shutterbug.jpg" alt="Shutterbug">
+	               	<img src="images/portfolio/shemaps.jpg" alt="Shutterbug">
 	               	<a href="#modal-02" class="overlay">              		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Shutterbug</h3>	     					    
+	                     		<h3 class="folio-title">She Maps Training</h3>	     					    
 		     					    	<span class="folio-types">
-		     					       	  Web Design
+		     					       	  Drone Education
 		     					      </span>		     		
 		     					   </div> 	                      	
 	                     </div>                    
@@ -463,13 +460,13 @@
 
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/clouds.jpg"alt="Clouds">
+	               	<img src="images/portfolio/stateofthemap20.jpg"alt="Clouds">
 	                  <a href="#modal-03" class="overlay">             		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Clouds</h3>	     					    
+	                     		<h3 class="folio-title">State of the Map Online</h3>	     					    
 		     					    	<span class="folio-types">
-		     					       	  Web Design
+		     					       	  Drones for Community Mapping
 		     					      </span>		     		
 		     					   </div> 	                      	
 	                     </div>                    
@@ -479,13 +476,13 @@
 
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/beetle.jpg" alt="Beetle">
+	               	<img src="images/portfolio/marinduque.jpg" alt="Beetle">
 	                  <a href="#modal-04" class="overlay">                  	                 
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Beetle</h3>	     					    
+	                     		<h3 class="folio-title">Marinduque Bike Loop</h3>	     					    
 		     					    	<span class="folio-types">
-		     					       	  Branding
+		     					       	  Thematic Mapping
 		     					      </span>		     		
 		     					   </div>  	                      	
 	                     </div>                    
@@ -495,13 +492,13 @@
 
 	        		<div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/lighthouse.jpg" alt="Lighthouse">
+	               	<img src="images/portfolio/pic.jpg" alt="Lighthouse">
 	                  <a href="#modal-05" class="overlay">             		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Lighthouse</h3>	     					    
+	                     		<h3 class="folio-title">Leigh Takes Flight</h3>	     					    
 		     					    	<span class="folio-types">
-		     					       	  Web Development
+		     					       	  Interview
 		     					      </span>		     		
 		     					   </div> 	                      	
 	                     </div>                    
@@ -511,13 +508,13 @@
 
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/salad.jpg" alt="Salad">
+	               	<img src="images/portfolio/uptacloban.jpg" alt="Salad">
 	                  <a href="#modal-06" class="overlay">
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Salad</h3>	     					    
+	                     		<h3 class="folio-title">UP Tacloban Youth Mappers Drone & GPS Training</h3>	     					    
 		     					    	<span class="folio-types">
-		     					       	  Branding
+		     					       	  Drone Education
 		     					      </span>		     		
 		     					   </div>	                      	
 	                     </div>                    
@@ -534,14 +531,17 @@
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Liberty</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+					      <h4>Pista ng Mapa x State of the Map Asia Conference 2022</h4>		      
+					      <p>Pista ng Mapa is the pioneer and premier free (as to cost and as in freedom) and open conference in the Philippines made for and by people who have a passion for open mapping, open data, and open source. </p>
+					      <br>
+					      <p>State of the Map Asia is an annual regional map conference instituted by the OpenStreetMap Foundation and participated by hundreds of local and international open data experts and enthusiasts.</p>
+					      <p></p>
 
-					      <div class="categories">Web Development</div>			               
+					      <div class="categories">Organizer</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
+			            <a href="https://pistangmapa.org/2022/">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
@@ -561,7 +561,7 @@
 					   </div>
 
 			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
+			            <a href="https://blog.werobotics.org/2020/03/16/in-the-philippines-she-maps-and-flying-labs-engage-youth-in-technology-training/">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
@@ -574,14 +574,14 @@
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Clouds</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+					      <h4>Drones for Community Mapping</h4>		      
+					      <p>This talk is about sharing my experience as a drone pilot here in the Philippines and what contributions in OSM it can do if given more opportunity in the future to fly drones in remote areas in the Philippines. Only 8% of certified drone pilots in the Philippines are women. </p>
 
 					      <div class="categories">Web Design</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
+			            <a href="https://pretalx.com/sotm2020/talk/8JQ7PY/">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
@@ -594,14 +594,14 @@
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Beetle</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+					      <h4>Marinduque Bike Loop</h4>		      
+					      <p>Submitted this map in State of the Map, Firenze, Italy</p>
 
-					      <div class="categories">Branding</div>			               
+					      <div class="categories">Design</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
+			            <a href="https://files.osmfoundation.org/s/ZngSfLFdBSiYQER">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
@@ -614,27 +614,27 @@
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Lighthouse</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+					      <h4>Leigh Takes Flight</h4>		      
+					      <p>Foundation Economic Freedom</p>
 
-					      <div class="categories">Web Development</div>			               
+					      <div class="categories"></div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
+			            <a href="http://landrightsph.org/resources/women-drones-leigh-takes-flight/">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
 				   </div> <!-- /modal-05 -->
 
-				   <div id="modal-06" class="popup-modal slider mfp-hide">	
+				    <div id="modal-06" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
 				     		<img src="images/portfolio/modals/m-salad.jpg" alt="" />
 				     	</div>      	
 
-					   <div class="description-box">
-					      <h4>Salad</h4>		      
+					    <div class="description-box">
+					      <h4>Ems</h4>		      
 					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
 					      <div class="categories">Branding</div>			               
@@ -645,7 +645,7 @@
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
-				   </div> <!-- /modal-06 -->
+				   </div>  /modal-06 -->
 
 
 				   <!-- modal popups - end
@@ -659,10 +659,9 @@
 		
 	</section> <!-- /portfolio --> 
 
-
-	<!-- Online Engagements
+	<!-- Online Engagements 
    ================================================== -->
-	<section id="cta" class="grey-section">
+	<!-- <section id="cta" class="grey-section">
 
    	<div class="row cta-content">
 
@@ -670,11 +669,13 @@
 
 	     		<h2 class="h01">Online Engagements</a></h2>
 
-		      <p class="lead">
+	     		<p class="lead">Link you can check for more information</p>
+
+		      <!-- <p class="lead">
 		      Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT"><span>DreamHost</span></a>.
 				Get <span>$50 off</span> when you sign up with the promocode <span>styleshout</span>. 
-				<!-- Simply type	the promocode in the box labeled “Promo Code” when placing your order. -->	
-				</p>
+				Simply type	the promocode in the box labeled “Promo Code” when placing your order. 
+				</p> 	
 
 				<div class="action">
 			      <a class="button button-primary large" href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">Sign Up Now</a>
@@ -686,167 +687,49 @@
 
    </section> <!-- /cta --> 
 
-	
-	<!-- services Section
-   ================================================== -->
-	<section id="services">
-
-		<div class="overlay"></div>
-
-		<div class="row section-intro">
-   		<div class="col-twelve">
-
-   			<h5 style = "color:#FFDE00">Services</h5>
-   			<h1>What Can I Do For You?</h1>
-
-   			<p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
-
-   		</div>   		
-   	</div> <!-- /section-intro -->
-
-   	<div class="row services-content">
-
-   		<div id="owl-slider" class="owl-carousel services-list">
-
-	      	<div class="service">	
-
-	      		<span class="icon"><i class="icon-earth"></i></span>            
-
-	            <div class="service-content">	
-
-	            	 <h3>Webdesign</h3>
-
-		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-	         		</p>
-	         		
-	         	</div> 	         	 
-
-				</div> <!-- /service -->
-
-				<div class="service">	
-
-					<span class="icon" ><i class="icon-window"></i></span>                          
-
-	            <div class="service-content">	
-
-	            	<h3>Web Development</h3>  
-
-		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-	         		</p>
-
-	            </div>	                          
-
-			   </div> <!-- /service -->
-
-			   <div class="service">
-
-			   	<span class="icon"><i class="icon-paint-brush"></i></span>		            
-
-	            <div class="service-content">
-
-	            	<h3>Branding</h3>
-
-		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-	        			</p> 
-
-	            </div> 	            	               
-
-			   </div> <!-- /service -->
-
-				<div class="service">
-
-					<span class="icon"><i class="icon-toggles"></i></span>	              
-
-	            <div class="service-content">
-
-	            	<h3>UI/UX Design</h3>
-
-		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-	         		</p> 
-	         		
-	            </div>                
-
-				</div> <!-- /service -->
-
-			   <div class="service">
-
-			   	<span class="icon"><i class="icon-image"></i></span>	            
-
-	            <div class="service-content">
-
-	            	<h3>Graphics Design</h3>
-
-		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-	        			</p> 
-
-	            </div>	               
-
-			   </div> <!-- /service -->
-
-			   <div class="service">
-
-			   	<span class="icon"><i class="icon-chat"></i></span>	   	           
-
-	            <div class="service-content">
-
-	            	 <h3>Consultancy</h3>
-
-		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-	        			</p> 
-	        			
-	            </div>	               
-
-			   </div> <!-- /service -->
-
-	      </div> <!-- /services-list -->
-   		
-   	</div> <!-- /services-content -->
-		
-	</section> <!-- /services -->	
-
 
 	<!-- stats Section
    ================================================== -->
-	<section id="stats" class="count-up">
+	 <section id="stats" class="count-up">
 
-		<div class="row">
-			<div class="col-twelve">
+		<div class="row" style="center">
+			<div>
 
 				<div class="block-1-6 block-s-1-3 block-tab-1-2 block-mob-full stats-list">
 
-					<div class="bgrid stat">
+					 <div class="bgrid stat">
 
 						<div class="icon-part">
 							<i class="icon-pencil-ruler"></i>
 						</div>
 
 						<h3 class="stat-count">
-							1500
+							850
 						</h3>
 
 						<h5 class="stat-title">
-							Projects Completed
+							*OpenStreetMap Contributions
 						</h5>
 
 					</div> <!-- /stat -->					
 
-					<div class="bgrid stat">
+				 	<!-- <div class="bgrid stat">
 
 						<div class="icon-part">
 							<i class="icon-users"></i>
 						</div>
 
 						<h3 class="stat-count">
-							900
+							833
 						</h3>
 
 						<h5 class="stat-title">
-							Happy Clients
+							OpenStreetMap Edits
 						</h5>
 
 					</div> <!-- /stat -->
 
-					<div class="bgrid stat">
+				<!-- 	<div class="bgrid stat">
 
 						<div class="icon-part">
 							<i class="icon-badge"></i>
@@ -862,23 +745,23 @@
 
 					</div> <!-- /stat -->									
 
-					<div class="bgrid stat">
+				 	<div class="bgrid stat">
 
 						<div class="icon-part">
 							<i class="icon-light-bulb"></i>
 						</div>
 
 						<h3 class="stat-count">
-							120
+							31
 						</h3>
 
 						<h5 class="stat-title">
-							Crazy Ideas
+							Projects
 						</h5>
 
 					</div> <!-- /stat -->
 
-					<div class="bgrid stat">
+			<!-- 		<div class="bgrid stat">
 
 						<div class="icon-part">
 							<i class="icon-cup"></i>
@@ -901,11 +784,11 @@
 						</div>
 
 						<h3 class="stat-count">
-							7200
+							50
 						</h3>
 
 						<h5 class="stat-title">
-							Hours
+							Flight Hours
 						</h5>
 
 					</div> <!-- /stat -->
@@ -918,27 +801,147 @@
 	</section> <!-- /stats -->
 
 	
+	<!-- services Section
+   ================================================== -->
+	 <section id="services">
+
+		<div class="overlay"></div>
+
+		<div class="row section-intro">
+   		<div class="col-twelve">
+
+   			<h5 style = "color:#FFDE00">Let's Collaborate!</h5>
+   			<h1>Do you have brilliant map-py ideas or activities?</h1>
+
+   			<p class="lead">You can shoot me a message on my social media platform or send me an email!</p>
+
+   		</div>   		
+   	</div> <!-- /section-intro -->
+
+   	 <div class="row services-content">
+
+   		<div id="owl-slider" class="owl-carousel services-list">
+
+	      	<div class="service">	
+
+	      		<span class="icon"><i class="icon-earth"></i></span>            
+
+	            <div class="service-content">	
+
+	            	 <h3>Email Me @</h3>
+
+		            <p class="desc">geoleighyers@gmail.com <br>tloleighlunas@gmail.com
+	         		</p>
+	         		
+	         	</div> 	         	 
+
+				</div> <!-- /service -->
+
+				<!--<div class="service">	
+
+					<span class="icon" ><i class="icon-window"></i></span>                          
+
+	            <div class="service-content">	
+
+	            	<h3>Web Development</h3>  
+
+		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+	         		</p>
+
+	            </div>	                          
+
+			   </div> <!-- /service -->
+
+			  <!--  <div class="service">
+
+			   	<span class="icon"><i class="icon-paint-brush"></i></span>		            
+
+	            <div class="service-content">
+
+	            	<h3>Branding</h3>
+
+		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+	        			</p> 
+
+	            </div> 	            	               
+
+			   </div> <!-- /service -->
+
+				<!--<div class="service">
+
+					<span class="icon"><i class="icon-toggles"></i></span>	              
+
+	            <div class="service-content">
+
+	            	<h3>UI/UX Design</h3>
+
+		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+	         		</p> 
+	         		
+	            </div>                
+
+				</div> <!-- /service -->
+
+			   <!--<div class="service">
+
+			   	<span class="icon"><i class="icon-image"></i></span>	            
+
+	            <div class="service-content">
+
+	            	<h3>Graphics Design</h3>
+
+		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+	        			</p> 
+
+	            </div>	               
+
+			   </div> <!-- /service -->
+
+			   <div class="service">
+
+			   	<span class="icon"><i class="icon-chat"></i></span>	   	           
+
+	            <div class="service-content">
+
+	            	 <h3>Social Media Platforms</h3>
+
+		            <p style="background: white;font-family: roboto;">
+   						<a href="https://www.facebook.com/leighmedy"><i class="fa fa-facebook"></i>   Facebook</a>
+			      		<br><a href="https://twitter.com/leighmedy"><i class="fa fa-twitter"></i>   Twitter</a>
+			      		<br><a href="https://www.instagram.com/geoleighyers"><i class="fa fa-instagram"></i>   Instagram</a>
+			   		</p>
+	        			
+	            </div>	               
+
+			   </div> <!-- /service -->
+
+	      </div> <!-- /services-list -->
+   		
+   	</div> <!-- /services-content -->
+		
+	</section> <!-- /services -->	
+
    <!-- contact
    ================================================== -->
-	<section id="contact">
+	<!--<section id="contact">
 
 		<div class="row section-intro">
    		<div class="col-twelve">
 
    			<h5>Contact</h5>
-   			<h1>I'd Love To Hear From You.</h1>
+   			<h1>I'd like to collaborate with you!</h1>
 
-   			<p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+   			<p class="lead">Do you have any map-py ideas you need help with? I'd like to hear more about it!</p>
 
    		</div> 
    	</div> <!-- /section-intro -->
 
-   	<div class="row contact-form">
+   	<!--<div class="row contact-form">
 
    		<div class="col-twelve">
 
             <!-- form -->
-            <form name="contactForm" id="contactForm" method="post" action="">
+           <!-- <form name="contactForm" id="contactForm" method="post" action="">
       			<fieldset>
 
                   <div class="form-field">
@@ -969,18 +972,18 @@
       		</form> <!-- Form End -->
 
             <!-- contact-warning -->
-            <div id="message-warning">            	
+            <!--<div id="message-warning">            	
             </div>            
             <!-- contact-success -->
-      		<div id="message-success">
+      		<!--<div id="message-success">
                <i class="fa fa-check"></i>Your message was sent, thank you!<br>
       		</div>
 
          </div> <!-- /col-twelve -->
    		
-   	</div> <!-- /contact-form -->
+   	<!--</div> <!-- /contact-form -->
 
-   	<div class="row contact-info">
+   	<!--<div class="row contact-info">
 
    		<div class="col-four tab-full">
 
@@ -991,9 +994,7 @@
    			<h5>Where to find me</h5>
 
    			<p>
-            1600 Amphitheatre Parkway<br>
-            Mountain View, CA<br>
-            94043 US
+            Quezon City, Philippines
             </p>
 
    		</div>
@@ -1006,8 +1007,8 @@
 
    			<h5>Email Me At</h5>
 
-   			<p>someone@kardswebsite.com<br>
-			   	info@kardswebsite.com			     
+   			<p>geoleighyers@gmail.com<br>
+			   	tloleighlunas@gmail.com			     
 			   </p>
 
    		</div>
@@ -1018,18 +1019,19 @@
    				<i class="icon-phone"></i>
    			</div>
 
-   			<h5>Call Me At</h5>
+   			<h5>Find me on my social media platforms</h5>
 
-   			<p>Phone: (+63) 555 1212<br>
-			   	Mobile: (+63) 555 0100<br>
-			     	Fax: (+63) 555 0101
+   			<p style="background:white">
+   				<a href="https://www.facebook.com/leighmedy"><i class="fa fa-facebook"></i>    Facebook</a>
+			      <br> <a href="https://twitter.com/leighmedy"><i class="fa fa-twitter"></i>     Twitter</a>
+			      <br><a href="https://www.instagram.com/geoleighyers"><i class="fa fa-instagram"></i>     Instagram</a>
 			   </p>
 
    		</div>
    		
    	</div> <!-- /contact-info -->
 		
-	</section> <!-- /contact -->
+	<!--</section> <!-- /contact -->
 
 
    <!-- footer
@@ -1041,11 +1043,10 @@
      		<div class="col-six tab-full pull-right social">
 
      			<ul class="footer-social">        
-			      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-			      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-			      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-			      <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-			      <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+			      <li><a href="https://www.facebook.com/leighmedy"><i class="fa fa-facebook"></i></a></li>
+			      <li><a href="https://twitter.com/leighmedy"><i class="fa fa-twitter"></i></a></li>
+			      <li><a href="https://www.instagram.com/geoleighyers"><i class="fa fa-instagram"></i></a></li>
+			      <li><a href="#"><i class="fa fa-github"></i></a></li>
 			   </ul> 
 	      		
 	      </div>
