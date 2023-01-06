@@ -906,10 +906,10 @@
 
 	            	 <h3>Social Media Platforms</h3>
 
-		            <p style="background: white;font-family: roboto;">
-   						<a href="https://www.facebook.com/leighmedy"><i class="fa fa-facebook"></i>   Facebook</a>
-			      		<br><a href="https://twitter.com/leighmedy"><i class="fa fa-twitter"></i>   Twitter</a>
-			      		<br><a href="https://www.instagram.com/geoleighyers"><i class="fa fa-instagram"></i>   Instagram</a>
+		            <p >
+   						<a href="https://www.facebook.com/leighmedy"><i class="fa fa-facebook"></i>  <span style="color: white;">   Facebook</span> </a>
+			      		<br><a href="https://twitter.com/leighmedy"><i class="fa fa-twitter"></i><span style="color: white;" >   Twitter</span> </a>
+			      		<br><a href="https://www.instagram.com/geoleighyers"><i class="fa fa-instagram"></i> <span style="color: white;">   Instagram</span> </a>
 			   		</p>
 	        			
 	            </div>	               
