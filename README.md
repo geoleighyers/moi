@@ -110,7 +110,7 @@
 
    			<div class="intro-info">
 
-   				<img src="images/profile-pic.jpg" alt="Profile Picture">
+   				<!-- profile picture here -->
 
    				<p class="lead">
 
@@ -527,7 +527,7 @@
 	            <div id="modal-01" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-liberty.jpg" alt="" />
+				     		<img src="images/portfolio/pnmxsotm22.jpg" alt="Liberty" />
 				     	</div>      	
 
 					   <div class="description-box">
@@ -550,14 +550,15 @@
 				   <div id="modal-02" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-shutterbug.jpg" alt="" />
+				     		<img src="images/portfolio/shemaps.jpg" alt="Shutterbug" />
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Shutterbug</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+					      <h4>SheMaps Trainor</h4>		      
+					      <p>She Maps aims to bring much needed diversity and support to STEM. We do this by providing drone and geospatial programs to teachers and schools across the globe.
+					      </p>
 
-					      <div class="categories">Web Design</div>			               
+					      <div class="categories">Drone Education</div>			               
 					   </div>
 
 			         <div class="link-box">
@@ -570,14 +571,14 @@
 				   <div id="modal-03" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-clouds.jpg" alt="" />
+				     		<img src="images/portfolio/stateofthemap20.jpg" alt="Clouds" />
 				     	</div>      	
 
 					   <div class="description-box">
 					      <h4>Drones for Community Mapping</h4>		      
 					      <p>This talk is about sharing my experience as a drone pilot here in the Philippines and what contributions in OSM it can do if given more opportunity in the future to fly drones in remote areas in the Philippines. Only 8% of certified drone pilots in the Philippines are women. </p>
 
-					      <div class="categories">Web Design</div>			               
+					      <div class="categories">Online Presentation</div>			               
 					   </div>
 
 			         <div class="link-box">
@@ -590,7 +591,7 @@
 				   <div id="modal-04" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-beetle.jpg" alt="" />
+				     		<img src="images/portfolio/marinduque.jpg" alt="Beetle" />
 				     	</div>      	
 
 					   <div class="description-box">
@@ -610,12 +611,12 @@
 				   <div id="modal-05" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-lighthouse.jpg" alt="" />
+				     		<img src="images/portfolio/fef-pic.jpg" alt="Lighthouse" />
 				     	</div>      	
 
 					   <div class="description-box">
 					      <h4>Leigh Takes Flight</h4>		      
-					      <p>Foundation Economic Freedom</p>
+					      <p>Interviewed by Foundation for Economic Freedome about her drone experience in the Philippines</p>
 
 					      <div class="categories"></div>			               
 					   </div>
@@ -630,18 +631,18 @@
 				    <div id="modal-06" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-salad.jpg" alt="" />
+				     		<img src="images/portfolio/uptaclobantraining.jpg" alt="Salad" />
 				     	</div>      	
 
 					    <div class="description-box">
-					      <h4>Ems</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+					      <h4>FNF-OSMPH Drone and GPS Training</h4>		      
+					      <p>On 11-12 August 2022, OpenStreetMap PH volunteers organized a drone and field mapping training in UP Visayas - Tacloban College, Leyte. In order to boost data quality and advance mapping skills, the OSM PH Booster Grant Facilitating Team (OSM PH BGFT) has proposed to develop and implement the training outside of Metro Manila to capacitate local OSM communities to acquire, learn, and share their skills in using devices (drones and GPS units). </p>
 
-					      <div class="categories">Branding</div>			               
+					      <div class="categories">Drone Education</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
+			            <a href="https://fb.watch/hTv6T4EVwM/">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
