@@ -300,7 +300,7 @@
 	   						</li>
 	   						<li>Facilitate and present GIS methods to create hazard, vulnerability, and exposure maps of Gaza City & 
 	   						    create map atlas showing different map outputs, World Bank Gaza City Disaster Risk Planning</li>
-	   						<li>Review GIS-related contracts for the municipality</li>
+	   						<li>Review GIS-related contracts for the municipality of Taytay</li>
 	   						<li>Provide training for engineers and geologists in GIS and drones for mapping</li>
 	   						<li>Co-author research paper in GIS and Geohazard assessment </li>
 
